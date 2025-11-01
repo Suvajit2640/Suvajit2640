@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **MERN,DSA**
+- 💬 Ask me about **MERN,DSA,OOPs,OS,Cyber Security,C++,Javascript**
 
 - 📫 How to reach me **suvajit2003saha@gmail.com**
 
